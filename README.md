@@ -36,7 +36,7 @@ I'm constantly expanding my skill set and staying up-to-date with the latest tec
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or drop me an email at [your.email@example.com](mailto:your.email@example.com). I'm always open to discussing new projects, ideas, or opportunities!
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/javierlo24/)) or drop me an email at [co838197@gmail.com](mailto:co838197@gmail.com). I'm always open to discussing new projects, ideas, or opportunities!
 
 ---
 
@@ -44,7 +44,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or drop me 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javierlo24&show_icons=true&theme=radical)
 
 ---
 
